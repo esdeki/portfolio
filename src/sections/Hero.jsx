@@ -129,8 +129,8 @@ export const Hero = () => {
                 <div className='flex items-center gap-4 animate-fade-in animation-delay-400'>
                     <span className='text-sm items-center text-(--color-muted-foreground)'>Follow Me: </span>
                         {[
-                        {icon: Github, href:"#"},
-                        {icon: Linkedin, href:"#"},
+                        {icon: Github, href:"https://github.com/esdeki"},
+                        {icon: Linkedin, href:"https://www.linkedin.com/in/saeedeh-esdaki27?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"},
                         ].map((social,inx) =>(
                             <a key={inx} href={social.href} className='p-2 rounded-full glass hover:bg-(--color-primary)/10 hover:text-(--color-primary) transition-all duration-300'>
                                 {<social.icon className='w-5 h-5'/> }
