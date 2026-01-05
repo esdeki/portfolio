@@ -26,7 +26,7 @@ const contactInfo = [
   
   {
     icon: Phone,
-    label: "What's up number",
+    label: "Whats App number",
     value: "+989355129105",
     href: "#",
   },
