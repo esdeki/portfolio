@@ -1,6 +1,6 @@
 const experiences = [
   {
-    period: "1403 — Present",
+    period: "1405 — Present",
     role: "تحلیلگر داده",
     company: "فریلنسر",
     description:
@@ -9,7 +9,7 @@ const experiences = [
     current: true,
   },
   {
-    period: "1403",
+    period: "1404",
     role:"کارشناس تسهیلات ارزی" ,
     company: "بانک خاورمیانه",
     description:
