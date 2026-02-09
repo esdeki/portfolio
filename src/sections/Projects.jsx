@@ -6,7 +6,7 @@ const projects = [
     title: "Fintech Dashboard",
     description:
       "A comprehensive financial analytics platform with real-time data visualization, portfolio management, and AI-powered insights.",
-    image: "/Project/1.jpg",
+    image: "/Project/p1.jpg",
     tags: ["React", "Typescript", "NodeJS"],
     link: "#",
     github: "#",
@@ -15,7 +15,7 @@ const projects = [
     title: "E-Commerce Platform",
     description:
       "A full-featured e-commerce solution with inventory management, payment processing, and analytics dashboard.",
-    image: "/Project/2.jpg",
+    image: "/Project/p2.jpg",
     tags: ["Next.js", "Stripe", "PostgreSQL", "Tailwind"],
     link: "#",
     github: "#",
@@ -24,7 +24,7 @@ const projects = [
     title: "AI Writing Assistant",
     description:
       "An intelligent writing tool powered by GPT-4, helping users create better content faster.",
-    image: "/Project/3.jpg",
+    image: "/Project/p3.jpg",
     tags: ["React", "OpenAI", "Python", "FastAPI"],
     link: "#",
     github: "#",
