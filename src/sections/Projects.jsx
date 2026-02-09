@@ -3,27 +3,27 @@ import { ArrowUpRight, Github } from "lucide-react";
 import { AnimatedBorderButton } from "@/components/AnimatedBorderButton";
 const projects = [
   {
-    title: "Fintech Dashboard",
+    title: "Currency Sales Performance Dashboard",
     description:
-      "A comprehensive financial analytics platform with real-time data visualization, portfolio management, and AI-powered insights.",
+      "An interactive dashboard to monitor multi-currency sales trends and monthly performance insights.",
     image: "/Project/p1.jpg",
     tags: ["React", "Typescript", "NodeJS"],
     link: "#",
     github: "#",
   },
   {
-    title: "E-Commerce Platform",
+    title: "Credit Risk Analytics Dashboard",
     description:
-      "A full-featured e-commerce solution with inventory management, payment processing, and analytics dashboard.",
+      "A data-driven dashboard to assess customer risk profiles and default behavior patterns.",
     image: "/Project/p2.jpg",
     tags: ["Next.js", "Stripe", "PostgreSQL", "Tailwind"],
     link: "#",
     github: "#",
   },
   {
-    title: "AI Writing Assistant",
+    title: "Network Analysis of YouTube Channel Interactions",
     description:
-      "An intelligent writing tool powered by GPT-4, helping users create better content faster.",
+      "Visualizing relationships between channels and engagement patterns using network graph analysis.",
     image: "/Project/p3.jpg",
     tags: ["React", "OpenAI", "Python", "FastAPI"],
     link: "#",
