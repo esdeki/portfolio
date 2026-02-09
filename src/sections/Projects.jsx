@@ -7,7 +7,7 @@ const projects = [
     description:
       "An interactive dashboard to monitor multi-currency sales trends and monthly performance insights.",
     image: "/Project/p1.jpg",
-    tags: ["React", "Typescript", "NodeJS"],
+    tags: ["SQL", "Pandas", "Power BI"],
     link: "#",
     github: "#",
   },
@@ -16,7 +16,7 @@ const projects = [
     description:
       "A data-driven dashboard to assess customer risk profiles and default behavior patterns.",
     image: "/Project/p2.jpg",
-    tags: ["Next.js", "Stripe", "PostgreSQL", "Tailwind"],
+    tags: ["SQL", "Pandas", "Power BI"],
     link: "#",
     github: "#",
   },
@@ -25,7 +25,7 @@ const projects = [
     description:
       "Visualizing relationships between channels and engagement patterns using network graph analysis.",
     image: "/Project/p3.jpg",
-    tags: ["React", "OpenAI", "Python", "FastAPI"],
+    tags: ["Gephi", "Python", "Excell"],
     link: "#",
     github: "#",
   },
