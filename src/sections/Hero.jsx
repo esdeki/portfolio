@@ -90,7 +90,7 @@ export const Hero = () => {
                  {/*HeadLine*/}
                  <div className='space-y-4'>
                     <h1 className='text-5xl mmd:text-6xl lg:text-7xl font-bold leading-tight animate-fade-in'>
-                        From <span className='text-(--color-highlight)'> financial data </span>,
+                        From <span className='text-(--color-highlight)'> financial data </span>
                        
                         <br/>
                         <span className='font-serif italic font-normal text-wite'>
