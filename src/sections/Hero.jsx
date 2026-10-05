@@ -91,10 +91,10 @@ export const Hero = () => {
                  <div className='space-y-4'>
                     <h1 className='text-5xl mmd:text-6xl lg:text-7xl font-bold leading-tight animate-fade-in'>
                         From <span className='text-(--color-highlight)'> financial data </span>,
-                        <span className='text-(--color-primary) glow-text'><br/>, real systems</span>
+                       
                         <br/>
                         <span className='font-serif italic font-normal text-wite'>
-                        to real-world impact AND intelligent AI solutions.
+                        to real system impact AND intelligent AI solutions.
                         </span>
                     </h1>
                         <p className='text-lg text-(--color-muted-foreground) max-w-lg animate-fade-in animation-delay-400'>
