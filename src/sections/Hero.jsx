@@ -90,13 +90,13 @@ export const Hero = () => {
                  {/*HeadLine*/}
                  <div className='space-y-4'>
                     <h1 className='text-5xl mmd:text-6xl lg:text-7xl font-bold leading-tight animate-fade-in'>
-                        From <span className='text-(--color-highlight)'> banking</span>,
-                        <span className='text-(--color-primary) glow-text'><br/>trade data</span>
+                        From <span className='text-(--color-highlight)'> financial data </span>,
+                        <span className='text-(--color-primary) glow-text'><br/>& real-world systems</span>
                         <br/>
                          and <span className='text-(--color-primary) glow-text'>social insights</span>
                         <br/>
                         <span className='font-serif italic font-normal text-wite'>
-                        to real-world impact.
+                        to real-world impact AND intelligent AI solutions.
                         </span>
                     </h1>
                         <p className='text-lg text-(--color-muted-foreground) max-w-lg animate-fade-in animation-delay-400'>
@@ -113,7 +113,7 @@ export const Hero = () => {
                     </Button>
                     </a>
                     <a 
-                        href="/resume.pdf" 
+                        href="/Saeedeh.Esdaki.CV.TTB.pdf" 
                         download="S.Esdeki.CV.pdf" 
                         className="no-underline"
                       >
